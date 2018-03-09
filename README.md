@@ -1,8 +1,6 @@
 LCG-Plyr
 
-![image](http://ww1.sinaimg.cn/large/0060lm7Tgy1fd5e5wy21pg30qo01jtcl.jpg)
-![image](http://img.qingchunji.cn/960x80571gv3gy1fkwrj6mfoug30qp03ojtm.gif)
-
+![image](http://wx3.sinaimg.cn/mw690/5eef6257gy1fd3of4ir9mg20b405wx6p.gif)
 
 
 更新日志：2018-03-09
