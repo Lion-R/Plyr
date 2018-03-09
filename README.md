@@ -1,6 +1,6 @@
 LCG-Plyr
 
-![image](https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png)
+![image](http://img.qingchunji.cn/960x80571gv3gy1fkwrj6mfoug30qp03ojtm.gif)
 
 
 更新日志：2018-03-09
