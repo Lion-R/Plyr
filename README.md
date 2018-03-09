@@ -1,6 +1,6 @@
 LCG-Plyr
 
-![image](https://www.lion-r.cn/wp-content/themes/Akina-Siren/images/avatar.jpg)
+![image](https://www.lion-r.cn/wp-content/uploads/2018/03/Logo.png)
 
 
 更新日志：2018-03-09
