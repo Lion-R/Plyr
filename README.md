@@ -5,19 +5,18 @@
 <p>一款性能不错的网页视频播放插件。</p>
 <p><a href="http://www.lion-r.cn" rel="nofollow">官网主页</a> | <a href="http://lion-r.cn/" rel="nofollow">体验Demo</a> | 案例-<a href="http://doc.huamanshu.com/%E7%93%A6%E5%8A%9B/" rel="nofollow">LCG-小超超</a></p>
 <h2><a id="user-content-演示" class="anchor" aria-hidden="true" href="#演示"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>演示</h2>
-<p><a target="_blank" href="https://camo.githubusercontent.com/53000c4d8e1c0ec477b34eb2bffeb01020921d69/68747470733a2f2f7261772e6769746875622e636f6d2f6d656f6c752f57616c64656e2f6d61737465722f7374617469632f73637265656e73686f74732f77616c64656e2e676966"><img src="https://camo.githubusercontent.com/53000c4d8e1c0ec477b34eb2bffeb01020921d69/68747470733a2f2f7261772e6769746875622e636f6d2f6d656f6c752f57616c64656e2f6d61737465722f7374617469632f73637265656e73686f74732f77616c64656e2e676966" alt="walden" data-canonical-src="https://raw.github.com/meolu/Walden/master/static/screenshots/walden.gif" style="max-width:100%;"></a></p>
+<p><a target="_blank" href="https://camo.githubusercontent.com/53000c4d8e1c0ec477b34eb2bffeb01020921d69/68747470733a2f2f7261772e6769746875622e636f6d2f6d656f6c752f57616c64656e2f6d61737465722f7374617469632f73637265656e73686f74732f77616c64656e2e676966"><img src="https://www.kzwr.com/kzwrfs?fid=6afcd5a635ba41bfa3430930b493a2401mhn.png" alt="walden" data-canonical-src="https://raw.github.com/meolu/Walden/master/static/screenshots/walden.gif" style="max-width:100%;"></a></p>
 <h2><a id="user-content-特点" class="anchor" aria-hidden="true" href="#特点"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>特点</h2>
 <ul>
-<li>Markdown语法</li>
-<li>修改后实时展现，无编译</li>
-<li>多模板支持</li>
-<li>图片、附件上传，自动生成url</li>
-<li>多项目</li>
-<li>任意定义目录嵌套、定义文档，目录与文档均可中文（甚至推荐中文）</li>
-<li>文档、图片、附件同步保存至git，这下你安心了吧</li>
+<li>Html5语法</li>
+<li>文章编辑一键插入</li>
+<li>电脑手机端自适应</li>
+<li>支持一键下载</li>
+<li>支持Https</li>
+<li>自定义设置视频封面</li>
 </ul>
 <h2><a id="user-content-一安装" class="anchor" aria-hidden="true" href="#一安装"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>一、安装</h2>
-<p>零安装、零配置，无数据库，不需要composer，开箱即用。只需要你有一台安装了git命令行，php5.3，nginx环境的linux机器。</p>
+<p>一键安装，超级简单。</p>
 <h2><a id="user-content-二快速开始" class="anchor" aria-hidden="true" href="#二快速开始"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>二、快速开始</h2>
 <div class="highlight highlight-text-html-php"><pre><span class="pl-s1"><span class="pl-c1">vi</span> <span class="pl-c1">Config</span><span class="pl-k">.</span><span class="pl-c1">php</span></span>
 <span class="pl-s1"><span class="pl-k">return</span> [</span>
