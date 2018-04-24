@@ -1,12 +1,8 @@
+
 LCG-Plyr
 
-文章插入
+![image](https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png)
 
-![image](https://www.kzwr.com/kzwrfs?fid=ff5d33d421af4fb6a905aba12758288bylq4.jpg)
-
-播放器：
-
-![image](https://www.kzwr.com/kzwrfs?fid=3e23f7a21ccb46f8908ca37bdb44b674yjx6.jpg)
 
 更新日志：2018-03-24
 
