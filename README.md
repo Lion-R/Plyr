@@ -1,8 +1,8 @@
 
-  * LCG-Plyr
+  ##LCG-Plyr
   
-  [![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"   
+ 
+
 
 <br>
   更新日志：2018-03-24
