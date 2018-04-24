@@ -1,8 +1,8 @@
 
 LCG-Plyr
 
-![image](https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超")
- [![image]](http://lion-r.cn) [baidu]:https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超"
+![LCG](https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超")
+[我的博客](http://blog.csdn.net/guodongxiaren)  
 
 更新日志：2018-03-24
 
