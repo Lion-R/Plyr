@@ -1,8 +1,8 @@
 
   * LCG-Plyr
   
-  [![LCG]](http://lion-r.cn)
-  [LCG]:https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超"  
+  [![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"   
 
 <br>
   更新日志：2018-03-24
