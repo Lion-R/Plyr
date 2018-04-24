@@ -1,9 +1,7 @@
 
   * LCG-Plyr
-
-  ![LCG](https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超")
   
-  [![LCG]](http://lion-r)  .cn
+  [![LCG]](http://lion-r.cn)
   [LCG]:https://www.kzwr.com/kzwrfs?fid=e20ca4b872a54d76a9581c7fb672b35ag9jf.png "LCG-小超超"  
 
 <br>
