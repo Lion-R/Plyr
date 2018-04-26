@@ -7,7 +7,7 @@
 				icon: false,
 				onclick: function() {
 					editor.windowManager.open({
-						title: 'Plyr播放器',
+						title: 'LCG-Plyr播放器',
 						body: [
                         {
                             type: 'textbox',
