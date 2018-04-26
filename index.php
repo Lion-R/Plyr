@@ -3,7 +3,7 @@
 Plugin Name: LCG Player For Wordpress
 Plugin URI: https://www.lion-r.cn
 Description: LCGPlyr是一款HTML5的视频播放器，界面简单、简洁。
-Version: 1.2
+Version: 1.3
 Author: LCG
 Author URI: https://www.lion-r.cn
 License: A "Slug" license name e.g. GPL2
