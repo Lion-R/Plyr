@@ -9,7 +9,7 @@
 <ul>
 <li>Html5/PHP语法</li>
 <li>文章编辑一键插入</li>
-<li>电脑手机端自适应</li>
+<li>电脑手机（Android+iOS）端完美自适应</li>
 <li>支持一键下载</li>
 <li>支持Https</li>
 <li>自定义设置视频封面</li>
