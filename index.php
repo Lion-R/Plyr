@@ -14,8 +14,8 @@ License: A "Slug" license name e.g. GPL2
 
 // 调用插件文件
 function themtuts_plyr_css_and_js_files() {
-    echo "<link href='https://cdn.bootcss.com/plyr/3.2.1/plyr.css' rel='stylesheet'>";
-    echo "<script type='text/javascript' src='https://cdn.bootcss.com/plyr/3.2.1/plyr.js'></script>";
+    echo "<link href='https://cdn.bootcss.com/plyr/3.3.5/plyr.css' rel='stylesheet'>";
+    echo "<script type='text/javascript' src='https://cdn.bootcss.com/plyr/3.3.5/plyr.js'></script>";
     echo "<script type='text/javascript' src='".PLYR_URL."src/plyr.js'></script>";
 }
 
