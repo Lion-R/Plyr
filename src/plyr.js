@@ -9,7 +9,7 @@
       c.innerHTML=a.responseText;
       b.insertBefore(c,b.childNodes[0])
   }
-})(document,"https://cdn.bootcss.com/plyr/3.2.1/plyr.svg");
+})(document,"https://cdn.bootcss.com/plyr/3.3.5/plyr.svg");
 plyr.setup({
     controls: ["play", "current-time", "duration", "mute", "volume", "captions", "fullscreen"],
     tooltips:{ controls: true, seek: false },
