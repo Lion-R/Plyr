@@ -1,5 +1,5 @@
 # LCG-Plyr Html5 播放器
-![Build status]（https://travis-ci.org/atotto/travisci-golang-example.png）
+https://img.shields.io/badge/LCG-Plyr-blue.svg?url=<github.com/lion-r/plyr>
 
 一款性能不错的网页视频播放插件，由刘荣焕开发至1.2版本，1.2版本以后由LCG 继续开发。并在代码基础上进行了优化，以适应广大用户群体的需求。
 
