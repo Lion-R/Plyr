@@ -12,7 +12,7 @@
 
 ## 特点
 
-* Html5/PHP/java语法
+* Html5/PHP语法
 * 文章编辑一键插入
 * 电脑手机（Android+iOS）端完美自适应
 * 支持一键下载
