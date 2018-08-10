@@ -1,5 +1,5 @@
 # LCG-Plyr Html5 播放器
-[![img](https://img.shields.io/badge/LCG-Plyr-blue.svg)](https://github.com/lion-r "LCG")[![img](https://img.shields.io/badge/Louie-cssplus-brightgreen.svg)](https://github.com/louie-senpai "Louie")
+[![img](https://img.shields.io/badge/LCG-Plyr-blue.svg)](https://github.com/lion-r "LCG") [![img](https://img.shields.io/badge/Louie-cssplus-brightgreen.svg)](https://github.com/louie-senpai "Louie")
 
 一款性能不错的网页视频播放插件，由刘荣焕开发至1.2版本，1.2版本以后由LCG 继续开发。并在代码基础上进行了优化，以适应广大用户群体的需求。
 
