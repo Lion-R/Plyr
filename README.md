@@ -6,7 +6,7 @@
 
 ## 演示
 
-![img](https://www.kzwr.com/kzwrfs?fid=0bbb75cfcd1fka9v7j.gif "Plyr-Demo")
+![img](https://github.com/Lion-R/image/blob/master/Plyr-Demo.gif "Plyr-Demo")
 
 
 ## 特点
