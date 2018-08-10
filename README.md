@@ -7,7 +7,7 @@
 
 ## 演示
 
-![img](https://github.com/Lion-R/image/blob/master/Plyr-Demo.gif "Plyr-Demo")
+[![img](https://github.com/Lion-R/image/blob/master/Plyr-Demo.gif "Plyr-Demo")](https://github.com/lion-r/plyr "Plyr-Deom")
 
 
 ## 特点
