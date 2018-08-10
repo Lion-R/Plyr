@@ -1,11 +1,12 @@
 # LCG-Plyr Html5 播放器
 
 一款性能不错的网页视频播放插件，由刘荣焕开发至1.2版本，1.2版本以后由LCG 继续开发。并在代码基础上进行了优化，以适应广大用户群体的需求。
+
 [LCG-小超超](https://www.lion-r.com "LCG") | [案例](https://www.lion-r.com/n "LCG-plyr")
 
 ## 演示
 
-![Pandao editor.md](https://www.kzwr.com/kzwrfs?fid=0bbb75cfcd1fka9v7j.gif "Plyr-Demo")
+![img](https://www.kzwr.com/kzwrfs?fid=0bbb75cfcd1fka9v7j.gif "Plyr-Demo")
 
 
 ## 特点
