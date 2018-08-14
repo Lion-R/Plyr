@@ -3,7 +3,7 @@
 
 一款性能不错的网页视频播放插件，由刘荣焕开发至1.2版本，1.2版本以后由LCG 继续开发。并在代码基础上进行了优化，以适应广大用户群体的需求。
 
-[LCG-小超超](https://www.lion-r.com "LCG") | [案例](https://www.lion-r.com/n "LCG-plyr") | [刘荣焕](https://liuronghuan.com/ "刘荣焕")
+[LCG-小超超](https://www.lion-r.com "LCG") | [案例](https://www.lion-r.com/analects-of-confucius/ "LCG-plyr") | [刘荣焕](https://liuronghuan.com/ "刘荣焕")
 
 ## 演示
 
