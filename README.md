@@ -23,7 +23,7 @@
 
 * 一键安装，上传插件即可。
 * 语法：[plyr poster=" 图片地址 "] 视频地址 [/plyr]
-* 目前支持mp4/webm/mkv/avi/mpg/mpeg/rm/rmvb/mov/wmv/asf/ts/flv格式直链。
+* 目前支持<code>mp4/webm/mkv/avi/mpg/mpeg/rm/rmvb/mov/wmv/asf/ts/flv</code>格式直链。
 
 ## 版本记录
 
