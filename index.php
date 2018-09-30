@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: LCG Player For Wordpress
-Plugin URI: https://www.lion-r.cn
+Plugin URI: https://www.github.com/lion-r/plyr
 Description: LCGPlyr是一款HTML5的视频播放器，界面简单、简洁。
 Version: 1.3.5
 Author: LCG
-Author URI: https://www.lion-r.cn
+Author URI: https://www.lion-r.com
 License: A "Slug" license name e.g. GPL2
 */
 
