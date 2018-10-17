@@ -14,9 +14,9 @@ License: A "Slug" license name e.g. GPL2
 
 // 调用插件文件
 function themtuts_plyr_css_and_js_files() {
-    echo "<link href='https://cdn.plyr.io/3.3.9/plyr.css' rel='stylesheet'>";
-    echo "<script type='text/javascript' src='https://cdn.plyr.io/3.3.9/plyr.js'></script>";
-    echo "<script type='text/javascript' src='".PLYR_URL."src/plyr.js'></script>";
+    echo "<link rel='stylesheet' href='".PLYR_URL."src/plyr.css?ver=1.5.0' >";
+    echo "<script type='text/javascript' src='".PLYR_URL."src/plyr.js?ver=1.5.0' > </script>";
+    echo "<script>plyr.setup();</script>";
 }
 
 add_action( 'wp_footer', 'themtuts_plyr_css_and_js_files' );
@@ -25,7 +25,7 @@ add_action( 'wp_footer', 'themtuts_plyr_css_and_js_files' );
 function themetuts_plyr_player($atts, $content=null) {
     extract(shortcode_atts(array("poster" => ''), $atts));
     $return = '<div class="plyr">';
-    $return .= '<video width="100%" height="100%" poster="'.$poster.'" controls>';
+    $return .= '<video width="100%" height="100%" poster="'.$poster.'" controls preload  onplay="plyr.setup();">';
     $return .= '<source src="'.$content.'" type="video/mp4">';
     $return .= '</video>';
     $return .= '</div> ';
