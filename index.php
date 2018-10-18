@@ -16,7 +16,6 @@ License: A "Slug" license name e.g. GPL2
 function themtuts_plyr_css_and_js_files() {
     echo "<link rel='stylesheet' href='".PLYR_URL."src/plyr.css?ver=1.5.0' >";
     echo "<script type='text/javascript' src='".PLYR_URL."src/plyr.js?ver=1.5.0' > </script>";
-    echo "<script>plyr.setup();</script>";
 }
 
 add_action( 'wp_footer', 'themtuts_plyr_css_and_js_files' );
