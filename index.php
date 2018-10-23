@@ -3,7 +3,7 @@
 Plugin Name: LCG Player For Wordpress
 Plugin URI: https://www.github.com/lion-r/plyr
 Description: LCGPlyr是一款HTML5的视频播放器，界面简单、简洁。
-Version: 1.5.0
+Version: 1.5.1
 Author: LCG
 Author URI: https://www.lion-r.com
 License: A "Slug" license name e.g. GPL2
@@ -14,9 +14,9 @@ License: A "Slug" license name e.g. GPL2
 
 // 调用插件文件
 function themtuts_plyr_css_and_js_files() {
-    echo "<link rel='stylesheet' href='".PLYR_URL."src/plyr.css?ver=1.5.0' >";
-    echo "<script type='text/javascript' src='".PLYR_URL."src/plyr.js?ver=1.5.0' > </script>";
-    echo "<script>plyr.setup();</script>";
+    echo "<link rel='stylesheet' href='https://cdn.bootcss.com/plyr/3.4.4/plyr.css?ver=3.4.4' >";
+    echo "<script type='text/javascript' src='https://cdn.bootcss.com/plyr/3.4.4/plyr.js?ver=3.4.4' > </script>";
+    echo "<script> const player = new Plyr('#player');</script> ";
 }
 
 add_action( 'wp_footer', 'themtuts_plyr_css_and_js_files' );
@@ -28,7 +28,7 @@ function themetuts_plyr_player($atts, $content=null) {
     $return .= '<video width="100%" height="100%" poster="'.$poster.'" controls>';
     $return .= '<source src="'.$content.'" type="video/mp4">';
     $return .= '</video>';
-    $return .= '<img src="" onerror="plyr.setup();" alt="" >';
+    $return .= '<img src="" alt="" onerror="const player = new Plyr(\'#player\')">';
     $return .= '</div> ';
     return $return;
 }
