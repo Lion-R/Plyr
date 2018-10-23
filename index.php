@@ -25,7 +25,7 @@ add_action( 'wp_footer', 'themtuts_plyr_css_and_js_files' );
 function themetuts_plyr_player($atts, $content=null) {
     extract(shortcode_atts(array("poster" => ''), $atts));
     $return = '<div class="plyr">';
-    $return .= '<video width="100%" height="100%" poster="'.$poster.'" controls>';
+    $return .= '<video width="100%" height="100%" poster="'.$poster.'" id="player" playsinline controls>';
     $return .= '<source src="'.$content.'" type="video/mp4">';
     $return .= '</video>';
     $return .= '<img src="" alt="" onerror="const player = new Plyr(\'#player\')">';
