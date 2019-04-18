@@ -2,7 +2,7 @@
 /*
 Plugin Name: LCG Plyr
 Plugin URI: https://www.github.com/lion-r/plyr
-Description: LCGPlyr是一款HTML5的视频播放器，界面简单、简洁。
+Description: LCG Plyr是一款HTML5的视频播放器，界面简单、简洁。
 Version: 1.5.5
 Author: LCG
 Author URI: https://www.lion-r.com
