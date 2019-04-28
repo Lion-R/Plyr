@@ -1,9 +1,9 @@
 # LCG Plyr 播放器 
 [![img](https://img.shields.io/badge/LCG-Lion--R-blue.svg)](https://github.com/lion-r "LCG") [![img](https://img.shields.io/badge/Louie-Cssplus-brightgreen.svg)](https://github.com/louie-senpai "Louie") [![img](https://img.shields.io/badge/%E4%BA%91%E7%82%B9%E6%92%AD-Oneindex-orange.svg)](https://github.com/donwa/oneindex "Oneindex")
 
-一款性能不错的网页视频播放插件，由刘荣焕开发至1.2版本，1.2版本以后由LCG 继续开发。并在代码基础上进行了优化，以适应广大用户群体的需求。
+一款性能不错的网页视频播放插件，采用Plyr播放器框架，适用于WordPress平台的一款插件，LCG在代码基础上进行了优化，以适应广大用户群体的需求。
 
-[LCG-小超超](https://www.lion-r.com "LCG") | [案例](https://www.lion-r.com/analects-of-confucius/ "LCG-plyr") | [刘荣焕](https://liuronghuan.com/plyr1-2.html "刘荣焕")
+[LCG-小超超](https://www.lion-r.com "LCG") | [案例](https://www.lion-r.com/analects-of-confucius/ "LCG-plyr") | [Plyr](https://github.com/sampotts/plyr "Plyr")
 
 ## 演示
 
