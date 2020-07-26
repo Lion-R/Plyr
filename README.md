@@ -7,12 +7,12 @@ LCG Plyr是一款简单、轻便的HTML5媒体播放器，支持主流浏览器�
 
 ## 演示
 
-[![img](https://github.com/Lion-R/image/blob/master/Plyr-Demo.png "Plyr-Demo")](https://github.com/lion-r/plyr "Plyr-Deom")
+[![img](https://github.com/Lion-R/image/blob/master/Plyr.png "Plyr-Demo")](https://github.com/lion-r/plyr "Plyr-Deom")
 
 
 ## 特点
 
-* Html5/PHP语法
+* PHP/JavaScript开发
 * 文章编辑一键插入
 * 电脑手机（Android+iOS）端完美自适应
 * 支持Https
