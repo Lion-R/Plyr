@@ -3,7 +3,7 @@
 Plugin Name: LCG Plyr
 Plugin URI: https://www.github.com/lion-r/plyr
 Description: LCG Plyr是一款简单、轻便的HTML5媒体播放器，支持主流浏览器。
-Version: 1.6.1
+Version: 1.6.2
 Author: LCG
 Author URI: https://www.lion-r.com
 License: A "Slug" license name e.g. GPL2
@@ -14,8 +14,8 @@ License: A "Slug" license name e.g. GPL2
 
 // 调用插件文件
 function themtuts_plyr_css_and_js_files() {
-    echo "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/plyr@3.6.7/dist/plyr.css?ver=3.6.7'>";
-    echo "<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/plyr@3.6.7/dist/plyr.js?ver=3.6.7'></script>";
+    echo "<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/plyr@3.6.8/dist/plyr.css?ver=3.6.8'>";
+    echo "<script type='text/javascript' src='https://cdn.jsdelivr.net/npm/plyr@3.6.8/dist/plyr.js?ver=3.6.8'></script>";
     echo "<script> const player = new Plyr('#player');</script> ";
 }
 
