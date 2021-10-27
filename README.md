@@ -1,5 +1,5 @@
 # LCG Plyr 播放器 
-[![img](https://img.shields.io/badge/LCG-Lion--R-blue.svg)](https://github.com/lion-r "LCG") [![img](https://img.shields.io/badge/Louie-Cssplus-brightgreen.svg)](https://github.com/louie-senpai "Louie") [![img](https://img.shields.io/badge/%E4%BA%91%E7%82%B9%E6%92%AD-Oneindex-orange.svg)](https://github.com/donwa/oneindex "Oneindex")
+[![img](https://img.shields.io/badge/LCG-Lion--R-blue.svg)](https://github.com/lion-r "LCG") [![img](https://img.shields.io/badge/Louie-Cssplus-brightgreen.svg)](https://github.com/louie-senpai "Louie") [![img](https://img.shields.io/badge/%E5%88%98%E8%8D%A3%E7%84%95-LiuRH-yellow.svg)](https://liuronghuan.com/plyr1-2.html "LiuRH")
 
 LCG Plyr是一款简单、轻便的HTML5媒体播放器，支持主流浏览器。本插件采用Plyr播放器框架，适用于WordPress平台，由刘荣焕开发至1.2版本，LCG在代码基础上进行了优化，以适应广大用户群体的需求。
 
